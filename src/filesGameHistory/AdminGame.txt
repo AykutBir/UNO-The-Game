@@ -1,0 +1,176 @@
+--Game Session Begins--
+AdminAdmin plays Yellow5. AdminAdmin has 6 cards left!
+BOT Jane plays YellowDraw2. BOT Jane has 6 cards left.
+AdminAdmin draws Two
+AdminAdmin's turn is skipped
+BOT Jane plays BlueDraw2. BOT Jane has 5 cards left.
+AdminAdmin draws Two
+AdminAdmin's turn is skipped
+BOT Jane plays WildDraw4. BOT Jane has 4 cards left.
+Selects color Blue
+AdminAdmin draws Four
+AdminAdmin's turn is skipped
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane plays Blue3. BOT Jane has 11 cards left.
+AdminAdmin plays Green3. AdminAdmin has 13 cards left!
+BOT Jane plays GreenReverse. BOT Jane has 10 cards left.
+Direction is reversed!
+AdminAdmin plays GreenDraw2. AdminAdmin has 12 cards left!
+BOT Jane draws Two
+BOT Jane's turn is skipped
+AdminAdmin plays GreenDraw2. AdminAdmin has 11 cards left!
+BOT Jane draws Two
+BOT Jane's turn is skipped
+AdminAdmin plays WildDraw4. AdminAdmin has 10 cards left!
+AdminAdmin chooses color Green
+BOT Jane draws Four
+BOT Jane's turn is skipped
+AdminAdmin plays Green6. AdminAdmin has 9 cards left!
+BOT Jane plays Green4. BOT Jane has 17 cards left.
+AdminAdmin plays Green0. AdminAdmin has 8 cards left!
+BOT Jane plays Green6. BOT Jane has 16 cards left.
+AdminAdmin plays Green5. AdminAdmin has 7 cards left!
+BOT Jane plays Yellow5. BOT Jane has 15 cards left.
+AdminAdmin plays WildColor. AdminAdmin has 6 cards left!
+AdminAdmin chooses color Red
+BOT Jane plays RedSkip. BOT Jane has 14 cards left.
+AdminAdmin's turn is skipped
+BOT Jane plays RedDraw2. BOT Jane has 13 cards left.
+AdminAdmin draws Two
+AdminAdmin's turn is skipped
+BOT Jane plays RedSkip. BOT Jane has 12 cards left.
+AdminAdmin's turn is skipped
+BOT Jane plays BlueSkip. BOT Jane has 11 cards left.
+AdminAdmin's turn is skipped
+BOT Jane plays YellowSkip. BOT Jane has 10 cards left.
+AdminAdmin's turn is skipped
+BOT Jane plays Yellow4. BOT Jane has 9 cards left.
+AdminAdmin plays Red4. AdminAdmin has 7 cards left!
+BOT Jane plays Red4. BOT Jane has 8 cards left.
+AdminAdmin plays Red7. AdminAdmin has 6 cards left!
+BOT Jane plays Red9. BOT Jane has 7 cards left.
+AdminAdmin plays Red8. AdminAdmin has 5 cards left!
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane plays WildDraw4. BOT Jane has 9 cards left.
+Selects color Yellow
+AdminAdmin draws Four
+AdminAdmin's turn is skipped
+BOT Jane plays Yellow1. BOT Jane has 8 cards left.
+AdminAdmin plays Yellow1. AdminAdmin has 8 cards left!
+BOT Jane plays Yellow9. BOT Jane has 7 cards left.
+AdminAdmin plays Yellow2. AdminAdmin has 7 cards left!
+BOT Jane plays Yellow7. BOT Jane has 6 cards left.
+AdminAdmin plays Blue7. AdminAdmin has 6 cards left!
+BOT Jane plays BlueReverse. BOT Jane has 5 cards left.
+Direction is reversed!
+AdminAdmin plays BlueSkip. AdminAdmin has 5 cards left!
+BOT Jane's turn is skipped
+AdminAdmin plays Blue4. AdminAdmin has 4 cards left!
+BOT Jane plays Blue6. BOT Jane has 4 cards left.
+AdminAdmin draws.
+AdminAdmin draws.
+AdminAdmin draws.
+AdminAdmin draws.
+AdminAdmin plays Blue7. AdminAdmin has 7 cards left!
+BOT Jane plays Green7. BOT Jane has 3 cards left.
+AdminAdmin plays Green2. AdminAdmin has 6 cards left!
+BOT Jane plays Green7. BOT Jane has 2 cards left.
+AdminAdmin plays Green8. AdminAdmin has 5 cards left!
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane plays Green5. BOT Jane has 7 cards left.
+AdminAdmin draws.
+AdminAdmin draws.
+AdminAdmin plays WildDraw4. AdminAdmin has 6 cards left!
+AdminAdmin chooses color Yellow
+BOT Jane draws Four
+BOT Jane's turn is skipped
+AdminAdmin plays YellowReverse. AdminAdmin has 5 cards left!
+Direction is reversed!
+BOT Jane plays YellowDraw2. BOT Jane has 10 cards left.
+AdminAdmin draws Two
+AdminAdmin's turn is skipped
+BOT Jane plays Yellow7. BOT Jane has 9 cards left.
+AdminAdmin plays Yellow3. AdminAdmin has 6 cards left!
+BOT Jane plays Red3. BOT Jane has 8 cards left.
+AdminAdmin plays Yellow3. AdminAdmin has 5 cards left!
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane plays WildColor. BOT Jane has 11 cards left.
+Selects color Blue
+AdminAdmin plays Blue3. AdminAdmin has 4 cards left!
+BOT Jane plays BlueReverse. BOT Jane has 10 cards left.
+Direction is reversed!
+AdminAdmin draws.
+AdminAdmin draws.
+AdminAdmin plays RedReverse. AdminAdmin has 5 cards left!
+Direction is reversed!
+BOT Jane plays RedReverse. BOT Jane has 9 cards left.
+Direction is reversed!
+AdminAdmin plays Red9. AdminAdmin has 4 cards left!
+BOT Jane plays Red1. BOT Jane has 8 cards left.
+AdminAdmin plays Red6. AdminAdmin has 3 cards left!
+BOT Jane plays Red2. BOT Jane has 7 cards left.
+AdminAdmin plays Red1. AdminAdmin has 2 cards left!
+BOT Jane plays Blue1. BOT Jane has 6 cards left.
+AdminAdmin draws.
+AdminAdmin draws.
+AdminAdmin plays Green1. AdminAdmin has 3 cards left!
+BOT Jane plays GreenSkip. BOT Jane has 5 cards left.
+AdminAdmin's turn is skipped
+BOT Jane draws.
+BOT Jane plays Green4. BOT Jane has 5 cards left.
+AdminAdmin plays Green2. AdminAdmin has 2 cards left!
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane plays Blue2. BOT Jane has 8 cards left.
+AdminAdmin declares UNO!
+AdminAdmin plays Red2. AdminAdmin has 1 cards left!
+BOT Jane plays Red6. BOT Jane has 7 cards left.
+AdminAdmin draws.
+AdminAdmin declares UNO!
+AdminAdmin plays Red8. AdminAdmin has 1 cards left!
+BOT Jane plays Red5. BOT Jane has 6 cards left.
+AdminAdmin draws.
+AdminAdmin draws.
+AdminAdmin draws.
+AdminAdmin draws.
+AdminAdmin draws.
+AdminAdmin plays Red7. AdminAdmin has 5 cards left!
+BOT Jane draws.
+BOT Jane plays Red5. BOT Jane has 6 cards left.
+AdminAdmin draws.
+AdminAdmin plays WildColor. AdminAdmin has 5 cards left!
+BOT Jane plays Blue5. BOT Jane has 5 cards left.
+AdminAdmin plays Blue4. AdminAdmin has 4 cards left!
+BOT Jane plays Blue5. BOT Jane has 4 cards left.
+AdminAdmin plays Blue0. AdminAdmin has 3 cards left!
+BOT Jane plays Blue9. BOT Jane has 3 cards left.
+AdminAdmin plays Yellow9. AdminAdmin has 2 cards left!
+BOT Jane plays Yellow0. BOT Jane has 2 cards left.
+AdminAdmin declares UNO!
+AdminAdmin plays YellowReverse. AdminAdmin has 1 cards left!
+Direction is reversed!
+BOT Jane declares UNO!
+BOT Jane plays Yellow6. BOT Jane has 1 cards left.
+AdminAdmin draws.
+AdminAdmin declares UNO!
+AdminAdmin plays Yellow8. AdminAdmin has 1 cards left!
+Game is finished! BOT Jane won the game.

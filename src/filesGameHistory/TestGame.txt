@@ -1,0 +1,233 @@
+--Game Session Begins--
+TesterTester plays Red4. TesterTester has 6 cards left!
+BOT Jane plays Red5. BOT Jane has 6 cards left.
+BOT John draws.
+BOT John draws.
+BOT John draws.
+BOT John draws.
+BOT John draws.
+BOT John draws.
+BOT John plays Red9. BOT John has 12 cards left.
+BOT Alex plays Red2. BOT Alex has 6 cards left.
+BOT Jake plays Red7. BOT Jake has 6 cards left.
+BOT Ash plays Red1. BOT Ash has 6 cards left.
+BOT Aria plays RedDraw2. BOT Aria has 6 cards left.
+BOT Josh draws Two
+BOT Josh's turn is skipped
+BOT Ace plays Red1. BOT Ace has 6 cards left.
+BOT Mike plays Red6. BOT Mike has 6 cards left.
+TesterTester plays Green6. TesterTester has 5 cards left!
+BOT Jane plays Green1. BOT Jane has 5 cards left.
+BOT John plays Green6. BOT John has 11 cards left.
+BOT Alex plays Green3. BOT Alex has 5 cards left.
+BOT Jake plays Red3. BOT Jake has 5 cards left.
+BOT Ash plays Red8. BOT Ash has 5 cards left.
+BOT Aria plays Red5. BOT Aria has 5 cards left.
+BOT Josh plays WildColor. BOT Josh has 8 cards left.
+Selects color Red
+BOT Ace plays WildDraw4. BOT Ace has 5 cards left.
+Selects color Yellow
+BOT Mike draws Four
+BOT Mike's turn is skipped
+TesterTester plays Yellow8. TesterTester has 4 cards left!
+BOT Jane plays YellowDraw2. BOT Jane has 4 cards left.
+BOT John draws Two
+BOT John's turn is skipped
+BOT Alex plays Yellow7. BOT Alex has 4 cards left.
+BOT Jake draws.
+BOT Jake draws.
+BOT Jake draws.
+BOT Jake draws.
+BOT Jake draws.
+BOT Jake draws.
+BOT Jake plays WildDraw4. BOT Jake has 10 cards left.
+Selects color Red
+BOT Ash draws Four
+BOT Ash's turn is skipped
+BOT Aria draws.
+BOT Aria draws.
+BOT Aria draws.
+BOT Aria plays WildColor. BOT Aria has 7 cards left.
+Selects color Green
+BOT Josh plays Green8. BOT Josh has 7 cards left.
+BOT Ace plays WildDraw4. BOT Ace has 4 cards left.
+Selects color Green
+BOT Mike draws Four
+BOT Mike's turn is skipped
+TesterTester plays GreenSkip. TesterTester has 3 cards left!
+BOT Jane's turn is skipped
+BOT John plays GreenDraw2. BOT John has 12 cards left.
+BOT Alex draws Two
+BOT Alex's turn is skipped
+BOT Jake plays GreenReverse. BOT Jake has 9 cards left.
+Direction is reversed!
+BOT Alex plays BlueReverse. BOT Alex has 5 cards left.
+Direction is reversed!
+BOT Jake plays RedReverse. BOT Jake has 8 cards left.
+Direction is reversed!
+BOT Alex draws.
+BOT Alex draws.
+BOT Alex draws.
+BOT Alex plays WildColor. BOT Alex has 7 cards left.
+Selects color Yellow
+BOT John plays Yellow6. BOT John has 11 cards left.
+BOT Jane plays YellowSkip. BOT Jane has 3 cards left.
+TesterTester's turn is skipped
+BOT Mike plays Yellow4. BOT Mike has 13 cards left.
+BOT Ace plays Yellow5. BOT Ace has 3 cards left.
+BOT Josh plays YellowSkip. BOT Josh has 6 cards left.
+BOT Aria's turn is skipped
+BOT Ash plays Yellow4. BOT Ash has 8 cards left.
+BOT Jake draws.
+BOT Jake draws.
+BOT Jake plays Red0. BOT Jake has 9 cards left.
+BOT Alex plays Yellow0. BOT Alex has 6 cards left.
+BOT John plays Yellow1. BOT John has 10 cards left.
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane plays Yellow5. BOT Jane has 4 cards left.
+TesterTester plays Green5. TesterTester has 2 cards left!
+BOT Mike plays WildColor. BOT Mike has 12 cards left.
+Selects color Blue
+BOT Ace plays Blue2. BOT Ace has 2 cards left.
+BOT Josh plays Blue9. BOT Josh has 5 cards left.
+BOT Aria plays BlueSkip. BOT Aria has 6 cards left.
+BOT Ash's turn is skipped
+BOT Jake plays Blue2. BOT Jake has 8 cards left.
+BOT Alex plays Blue7. BOT Alex has 5 cards left.
+BOT John plays Blue1. BOT John has 9 cards left.
+BOT Jane draws.
+BOT Jane plays BlueReverse. BOT Jane has 4 cards left.
+Direction is reversed!
+BOT John plays YellowReverse. BOT John has 8 cards left.
+Direction is reversed!
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane plays WildDraw4. BOT Jane has 9 cards left.
+Selects color Red
+TesterTester draws Four
+TesterTester's turn is skipped
+BOT Mike plays Red9. BOT Mike has 11 cards left.
+BOT Ace draws.
+BOT Ace draws.
+BOT Ace plays Red4. BOT Ace has 3 cards left.
+BOT Josh plays Red3. BOT Josh has 4 cards left.
+BOT Aria draws.
+BOT Aria plays Red8. BOT Aria has 6 cards left.
+BOT Ash plays WildDraw4. BOT Ash has 7 cards left.
+Selects color Blue
+BOT Jake draws Four
+BOT Jake's turn is skipped
+BOT Alex plays Blue4. BOT Alex has 4 cards left.
+BOT John plays Blue4. BOT John has 7 cards left.
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane draws.
+BOT Jane plays WildDraw4. BOT Jane has 11 cards left.
+Selects color Blue
+TesterTester draws Four
+TesterTester's turn is skipped
+BOT Mike plays Blue6. BOT Mike has 10 cards left.
+BOT Ace plays Blue5. BOT Ace has 2 cards left.
+BOT Josh draws.
+BOT Josh draws.
+BOT Josh draws.
+BOT Josh draws.
+BOT Josh draws.
+BOT Josh plays WildColor. BOT Josh has 8 cards left.
+Selects color Green
+BOT Aria plays Green5. BOT Aria has 5 cards left.
+BOT Ash plays Yellow5. BOT Ash has 6 cards left.
+BOT Jake plays WildColor. BOT Jake has 11 cards left.
+Selects color Blue
+BOT Alex plays Blue7. BOT Alex has 3 cards left.
+BOT John plays Yellow7. BOT John has 6 cards left.
+BOT Jane plays Red7. BOT Jane has 10 cards left.
+TesterTester plays RedDraw2. TesterTester has 9 cards left!
+BOT Mike draws Two
+BOT Mike's turn is skipped
+BOT Ace draws.
+BOT Ace plays Red5. BOT Ace has 2 cards left.
+BOT Josh plays Red1. BOT Josh has 7 cards left.
+BOT Aria draws.
+BOT Aria draws.
+BOT Aria plays RedDraw2. BOT Aria has 6 cards left.
+BOT Ash draws Two
+BOT Ash's turn is skipped
+BOT Jake plays GreenDraw2. BOT Jake has 10 cards left.
+BOT Alex draws Two
+BOT Alex's turn is skipped
+BOT John plays Green3. BOT John has 5 cards left.
+BOT Jane plays Green9. BOT Jane has 9 cards left.
+TesterTester plays Green1. TesterTester has 8 cards left!
+BOT Mike plays GreenSkip. BOT Mike has 11 cards left.
+BOT Ace's turn is skipped
+BOT Josh plays GreenReverse. BOT Josh has 6 cards left.
+Direction is reversed!
+BOT Ace draws.
+BOT Ace draws.
+BOT Ace draws.
+BOT Ace draws.
+BOT Ace plays WildDraw4. BOT Ace has 5 cards left.
+Selects color Yellow
+BOT Mike draws Four
+BOT Mike's turn is skipped
+TesterTester plays WildDraw4. TesterTester has 7 cards left!
+TesterTester chooses color Green
+BOT Jane draws Four
+BOT Jane's turn is skipped
+BOT John plays Green4. BOT John has 4 cards left.
+BOT Alex plays Green4. BOT Alex has 4 cards left.
+BOT Jake plays Green2. BOT Jake has 9 cards left.
+BOT Ash plays Blue2. BOT Ash has 7 cards left.
+BOT Aria plays Blue9. BOT Aria has 5 cards left.
+BOT Josh draws.
+BOT Josh plays WildColor. BOT Josh has 6 cards left.
+Selects color Red
+BOT Ace plays Red0. BOT Ace has 4 cards left.
+BOT Mike plays Red4. BOT Mike has 14 cards left.
+TesterTester plays Red1. TesterTester has 6 cards left!
+BOT Jane plays WildColor. BOT Jane has 12 cards left.
+Selects color Blue
+BOT John plays Blue1. BOT John has 3 cards left.
+BOT Alex plays Blue3. BOT Alex has 3 cards left.
+BOT Jake plays Blue6. BOT Jake has 8 cards left.
+BOT Ash plays Blue0. BOT Ash has 6 cards left.
+BOT Aria plays BlueSkip. BOT Aria has 4 cards left.
+BOT Josh's turn is skipped
+BOT Ace plays YellowSkip. BOT Ace has 3 cards left.
+BOT Mike's turn is skipped
+TesterTester plays YellowDraw2. TesterTester has 5 cards left!
+BOT Jane draws Two
+BOT Jane's turn is skipped
+BOT John plays Yellow9. BOT John has 2 cards left.
+BOT Alex plays Yellow6. BOT Alex has 2 cards left.
+BOT Jake plays Red6. BOT Jake has 7 cards left.
+BOT Ash plays Blue6. BOT Ash has 5 cards left.
+BOT Aria plays Blue5. BOT Aria has 3 cards left.
+BOT Josh draws.
+BOT Josh plays Blue7. BOT Josh has 6 cards left.
+BOT Ace plays BlueSkip. BOT Ace has 2 cards left.
+BOT Mike's turn is skipped
+TesterTester plays WildColor. TesterTester has 4 cards left!
+TesterTester chooses color Yellow
+BOT Jane plays Yellow1. BOT Jane has 13 cards left.
+BOT John draws.
+BOT John plays Yellow5. BOT John has 2 cards left.
+BOT Alex plays YellowReverse. BOT Alex has 1 cards left.
+Direction is reversed!
+BOT John draws.
+BOT John plays WildDraw4. BOT John has 2 cards left.
+Selects color Red
+BOT Jane draws Four
+BOT Jane's turn is skipped
+TesterTester pointed out, BOT Alex forgot to say UNO!
+BOT Alex draws.
+BOT Alex draws.
+TesterTester draws.
+TesterTester draws.
+Saving the Game
